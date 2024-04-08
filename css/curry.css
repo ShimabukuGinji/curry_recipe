@@ -1,0 +1,30 @@
+body{
+    background-image: url(../images/bg_Argyle.jpg);
+}
+
+table{
+    background-color: rgb(253, 249, 213);
+    border:2px rgb(255, 0, 0);
+}
+caption{
+    color:rgb(255, 0, 0);
+}
+
+.main{
+    text-align: center;
+}
+.curry_img{
+    border:double 10px rgb(255, 100, 0);
+}
+
+.onepoint{
+    display: flex;
+}
+
+.sell1{
+    width: 150px;
+}
+
+.sell2{
+    width: 100px;
+}
